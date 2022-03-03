@@ -1,0 +1,22 @@
+.logo{
+    margin-top: 50px;
+}
+.title{
+    color:blue;
+}
+button{
+    color: white;
+    background-color: blue;
+}
+.danger{
+    color: red;
+}
+.cat{
+    height: 200px;
+}
+.cats{
+    width: 100%;
+}
+h5{
+    color: blue;
+}
